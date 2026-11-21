@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive 3D Commerce",
+  "description": "AI Interaction Designer for Shopify Commerce — analyzes product structure and buyer concerns to select and configure bespoke 3D shopping experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
